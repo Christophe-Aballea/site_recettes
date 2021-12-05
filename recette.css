@@ -20,7 +20,7 @@ p.category {
     margin-bottom: 0;
  }
 
-.centre {
+.center {
     text-align: center;
     width: 100%;
 }
@@ -140,7 +140,7 @@ table.preparation td {
     vertical-align: top;
 }
 
-table.preparation td.preparation_etape {
+table.preparation td.preparation_step {
     font-size: 14px;
     padding-left: 10px;
     padding-bottom: 10px;
@@ -184,6 +184,7 @@ table.preparation tr {
     }
 }
 
+/* Styles for desktop larger than 900px */
 @media only screen and (min-width: 900px) {
     div.content {
         margin-left: auto;
